@@ -9,7 +9,7 @@
 
 ## 👥 Equipe
 
-### **Grupo 3**
+### **Grupo**
 - [Eduardo Hansen](https://github.com/DuHansen) - [Gabriel Laufer](https://github.com/1aufer) - [Wesley](https://github.com/) - [Matheus Henrique Soster](https://github.com/).
 
 
