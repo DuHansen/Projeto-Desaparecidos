@@ -24,7 +24,7 @@
 
 
 ## 💻 Ferramentas e tecnologias
-|
+
 ## 😌 Impedimentos resolvidos
 
 
